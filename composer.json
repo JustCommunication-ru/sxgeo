@@ -1,0 +1,11 @@
+{
+    "name": "justcommunication-ru/sxgeo",
+    "description": "SxGeo fork to get rid of deprecation messages",
+    "keywords": ["sxgeo","sypex geo", "sypexgeo", "geo", "geoip", "ip2location", "location"],
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {"JustCommunication\\": "src/"}
+    }
+}
